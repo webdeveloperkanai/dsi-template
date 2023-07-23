@@ -1,0 +1,19 @@
+.db-not-connected {
+    height: 500px;
+    box-shadow: 0 10px 25px #eee;
+    margin: 25px;
+    padding: 15px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+}
+.db-not-connected h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Arial'
+}
+.db-not-connected a {
+    text-decoration: none;
+    text-transform: capitalize;
+}
